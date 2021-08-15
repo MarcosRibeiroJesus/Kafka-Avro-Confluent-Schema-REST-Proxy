@@ -1,0 +1,20 @@
+{
+     "type": "record",
+     "namespace": "com.example", // Equivalent of package in Java
+     "name": "", // Name of your schema
+     "doc": "", // Documentation to explain your schema
+     "fields": [
+       { 
+         "name": "", // Name of your field 
+         "type": "", // Data type for that field (can be a primitive type)
+         "doc": "", // Documentation for that field
+         "default": "" // Default Value for that field
+       },
+       { 
+         "name": "", 
+         "type": "", 
+         "doc": "",
+         "default": ""
+       }
+     ]  
+}
