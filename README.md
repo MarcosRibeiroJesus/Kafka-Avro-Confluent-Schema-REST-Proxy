@@ -1,0 +1,1 @@
+# Kafka-Avro-Confluent-Schema-REST-Proxy
