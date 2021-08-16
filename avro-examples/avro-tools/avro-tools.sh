@@ -10,3 +10,6 @@ java -jar avro-tools-1.8.2.jar tojson --pretty customer-specific.avro
 
 # getting the schema
 java -jar avro-tools-1.8.2.jar getschema customer-specific.avro 
+
+# run reflected 
+java -jar avro-tools-1.8.2.jar tojson --pretty customer-reflected.avro 
